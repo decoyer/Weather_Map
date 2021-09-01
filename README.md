@@ -3,6 +3,7 @@
 
 ### 기능 설명
 ![app](https://user-images.githubusercontent.com/87348583/131630183-c983596c-fccb-4d39-9ac9-cd0a25fe7d96.png)
+
 - **마커**
   - 이미지: 각 도시의 마크 이미지 사용
   - 스니펫 메시지: 각 도시의 시청 홈페이지 주소
