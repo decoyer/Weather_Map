@@ -1,4 +1,4 @@
-# Weather_Map
+# 날씨 정보 지도 앱
 Weather Map Android App with *Java*
 
 using *Android Studio*
