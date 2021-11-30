@@ -1,5 +1,7 @@
 # Weather_Map
-### *Java* 코드로 구현한 날씨 정보 안드로이드 앱
+Weather Map Android App with Java
+
+using Android Studio
 
 ## 설명
 ![app](https://user-images.githubusercontent.com/87348583/131630183-c983596c-fccb-4d39-9ac9-cd0a25fe7d96.png)
