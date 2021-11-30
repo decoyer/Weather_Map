@@ -12,3 +12,8 @@ using Android Studio
 - 날씨 정보 **인텐트** (마커 터치 시 호출)
   - 현재 시간과 기온 출력
   - 날씨에 맞는 7개의 이미지를 상황에 맞게 표시
+
+## Getting Started
+```
+MainActivity.java
+```
