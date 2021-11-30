@@ -15,5 +15,5 @@ using *Android Studio*
 
 ## Getting Started
 ```
-MainActivity.java
+MapsActivity.java
 ```
