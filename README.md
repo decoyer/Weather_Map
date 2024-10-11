@@ -14,6 +14,7 @@ using *Android Studio*
   - 날씨에 맞는 7개의 이미지를 상황에 맞게 표시
 
 ## Getting Started
+https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white
 ```
 MapsActivity.java
 ```
